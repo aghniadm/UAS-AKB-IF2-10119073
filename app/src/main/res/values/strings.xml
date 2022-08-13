@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Catatan Harian 10119073</string>
+
+    <string name="heading_one">About</string>
+    <string name="heading_two">Version</string>
+    <string name="heading_three">Created by</string>
+
+    <string name="desc_one">Aplikasi ini dibuat untuk memenuhi tugas pengganti UAS AKB</string>
+    <string name="desc_two">V0.1</string>
+    <string name="desc_three">Aghnia Dewi Mahiranie - 10119073</string>
+</resources>
